@@ -1,3 +1,3 @@
-# spaghetti
+# Random
 
 # Testing random GitHub features
